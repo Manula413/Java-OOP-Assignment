@@ -1,0 +1,13 @@
+Departments:
+Health
+Legal
+Finance
+
+Designations:
+Head
+Executive
+
+Employees:
+Jane,Health,Executive,12345
+John,Legal,Executive,58047
+James,Health,Head,22222

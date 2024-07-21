@@ -1,0 +1,5 @@
+Manula,12345,HRManager
+Pasan,12345,HRAssistant 
+Hemantha,Hemantha123,HRAssistant 
+Billy,billy123,HRManager
+Senol,12345,HRManager
